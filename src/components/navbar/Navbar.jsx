@@ -13,8 +13,8 @@ function Navbar() {
             link : "/#about",
         },
         {
-            name: "Services",
-            link : "/#services",
+            name: "Skills",
+            link : "/#skills",
         },
         {
             name: "Contact",

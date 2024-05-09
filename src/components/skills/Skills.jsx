@@ -3,7 +3,7 @@ import SkillsLevel from "./SkillesLevel";
 
 const Skills = () => {
   return (
-    <section id="about" className="bg-white dark:bg-slate-800 dark:text-white">
+    <section id="skills" className="bg-white dark:bg-slate-800 dark:text-white">
       <div className="container md:w-[70%] sm:py-16 py-10">
         <div className="grid items-center gap-4 grid-cols-1 sm:grid-cols-2">
           <div className="sm:order-2 font-bold relative">
